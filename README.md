@@ -12,6 +12,7 @@ may not edit the code
 
 put this in your server.cfg:
 
-start thingy
+"start thingy"
+
 
 /999 to call the emergency services :D
