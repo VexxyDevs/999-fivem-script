@@ -26,3 +26,6 @@ example:
 
 
 want any changes done?? lmk 
+
+version 2 : https://github.com/vexxy69/999-fivem-script/releases/tag/v2
+![betterrrr9999](https://user-images.githubusercontent.com/122513007/233119355-0e336272-73ec-4604-8f5f-6da795b0761b.JPG)
